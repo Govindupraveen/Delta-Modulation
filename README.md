@@ -1,7 +1,4 @@
 # EXP-04 Delta-Modulation
-# Name : Dharshini V S
-# REG NO : 212223060050
-
 ### Aim:
 To perform Delta-Modulation using python
 
